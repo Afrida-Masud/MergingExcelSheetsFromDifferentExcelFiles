@@ -1,5 +1,5 @@
 # MergingExcelSheetsFromDifferentExcelFiles
-I was working with O\*net Database for one of my research projects. O\*net have 40 excel files in a zipped file. I wanted all of those files in a single workbook. Thus, I created this code in R software to merge all the excel sheets from 40 different excel files. A brief description of O\*net from their website is given below-\
+I was working with O\*net Database for one of my research projects. O\*net have 40 excel files in a zipped file. I wanted all of those files in a single workbook. Thus, I created this code in R software to merge all the excel sheets from 40 different excel files. A brief description of O\*net from their website is given below-
 
 The O\*NET Program is the nation's primary source of occupational information. Valid data are essential to understanding the rapidly changing nature of work and how it impacts the workforce and U.S. economy. From this information, applications are developed to facilitate the development and maintenance of a skilled workforce.
 Central to the project is the O\*NET database, containing hundreds of standardized and occupation-specific descriptors on almost 1,000 occupations covering the entire U.S. economy. The database, which is available to the public at no cost, is continually updated from input by a broad range of workers in each occupation.
